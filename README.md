@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/abdullahkus/abdullahkus/main/abdullah-kus.png" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 # 💫 About Me:
-🔭  I've graduated in June/2022 and looking for work<br>🌱  I'm currently learning Go and Javascript (React, Next), TypeScript<br>💻  Connect with me on LinkedIn<br>🙉  My hobbies are: watching movies, listening to music and playing football<br>
+🔭  I've graduated in June/2022 and looking for work<br>🌱  I'm currently learning Go and Javascript (React, Next), TypeScript<br>💻  Connect with me on <a href="https://www.linkedin.com/in/abdullahkus/">LinkedIn</a><br>🙉  My hobbies are: watching movies, listening to music and playing football<br>
 
 ## 🌐 Socials:
 <div>
