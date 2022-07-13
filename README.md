@@ -3,6 +3,8 @@
 </div>  
 
 # 💫 About Me:
+I am a software developer who is keen to learn new information in every field and am on the way to becoming a full-stack developer. My biggest dream since childhood was to be a great software developer who has improved himself. I am interested in all the fields related to web development. I am currently trying to improve myself by developing various projects. I am a flexible, punctual, and collaborative team player who always loves his job.
+
 🔭  I've graduated in June/2022 and looking for work<br>🌱  I'm currently learning Javascript (React, Next) and TypeScript<br>💻  Connect with me on <a href="https://www.linkedin.com/in/abdullahkus/">LinkedIn</a><br>🙉  My hobbies are: watching movies, listening to music and playing football<br>
 
 ## 🌐 Socials:
