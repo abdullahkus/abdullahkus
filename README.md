@@ -1,10 +1,5 @@
 <img src="https://user-images.githubusercontent.com/70553662/198983011-b8ef6346-c4b3-4a83-a5f2-3aefded32189.png" align="center" style="width: 100%" />
 
-## 💫 About Me:
-I am a software developer who is keen to learn new information in every field. My biggest dream since childhood was to be a great software developer who has improved himself. I am interested in all the fields related to web development. I am currently trying to improve myself by developing various projects.
-
-🔭  I graduated in June/2022 and have been working since 03/2023.<br> 💻  Connect with me on <a href="https://www.linkedin.com/in/abdullahkus/">LinkedIn</a> or <a hreF="mailto:abdullahkus38@hotmail.com">abdullahkus38@hotmail.com</a>
-
 ## 🌐 Socials:
 <div>
 <a href="https://twitter.com/abdullahkus_" target="_blank">
@@ -46,3 +41,7 @@ I am a software developer who is keen to learn new information in every field. M
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkus&show_icons=true&locale=en&layout=compact" alt="abdullahkus" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahkus&show_icons=true&locale=en" alt="abdullahkus" />
